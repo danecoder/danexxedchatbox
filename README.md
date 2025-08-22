@@ -17,5 +17,5 @@ Foi desenvolvido para ser integrado facilmente em qualquer site via bookmarklet 
 
 ### ⚠️ Avisos
 - Este widget funciona apenas em navegadores modernos.
-- Requer conexão com a API da Google Generative Language.
+- O projeto funcionará por um curto período de tempo por não ser gratuito.
 - Use em sites que você tem permissão para inserir scripts.
