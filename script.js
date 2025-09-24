@@ -1,1 +1,148 @@
-function _0xa941(){const _0xe950f0=['preventDefault','status','3590XakKRg','</div>','div','json','f226eb7763c154ed602edc4130acdd9f0b94671f4f1e64837ec383ce63e8c58f','Pensando...','scrollTop','keydown','message','createElement','onmousedown','POST','remove','stringify','clientY','<div\x20style=\x22color:red;\x22>Erro\x20ao\x20se\x20comunicar\x20com\x20a\x20IA:<br>','2912136byawaC','7301358DjGaGG','trim','12ptSasO','getElementById','Bearer\x20','addEventListener','https://32f72b76-6030-42b8-a4f1-7b917478ce96-00-352w8eo1fg3gf.riker.replit.dev/proxy','key','add','log','43254kQIjrD','offsetTop','classList','application/json','9293984Fmbbpp','iaForm','innerHTML','error','appendChild','dxtWidget','collapsed','submit','innerText','color:#888;font-style:italic;','left','dxtWidgetHeader','4KuNhTV','677276XFGBpA','HTTP\x20','scrollHeight','<div><b>IA:</b>\x20','60374dGkjry','iaInput','top','style','\x0a\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20#dxtWidget\x20button:hover\x20{background:#eee;}\x0a\x20\x20\x20\x20\x20\x20#dxtWidget.collapsed\x20{opacity:0;\x20pointer-events:none;}\x0a\x20\x20\x20\x20\x20\x20#dxtWidget\x20#iaMessages\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20flex:1;\x20padding:10px;\x20overflow-y:auto;\x20font-size:14px;\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20#dxtWidgetHeader\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:#f7f7f7;\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:10px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-weight:bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-align:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border-bottom:1px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20cursor:move;\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20#dxtWidgetFooter\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:#f7f7f7;\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:6px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:12px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-align:center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border-top:1px\x20solid\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:#555;\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20#dxtWidgetFooter\x20a\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:#0077cc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-decoration:none;\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20#dxtWidgetFooter\x20a:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-decoration:underline;\x0a\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20<div\x20id=\x22dxtWidgetHeader\x22>dxtChat\x20-\x20danexxed\x27s\x20team</div>\x0a\x20\x20\x20\x20<div\x20id=\x22iaMessages\x22></div>\x0a\x20\x20\x20\x20<form\x20id=\x22iaForm\x22\x20style=\x22display:flex;\x20border-top:1px\x20solid\x20#ddd;\x22>\x0a\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22iaInput\x22\x20placeholder=\x22Digite\x20aqui...\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20style=\x22flex:1;\x20border:none;\x20padding:10px;\x20background:#fff;\x20color:#000;\x20border-right:1px\x20solid\x20#ddd;\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20<button\x20type=\x22submit\x22\x20style=\x22border:none;\x20background:#f0f0f0;\x20color:#000;\x20padding:0\x2015px;\x22>➤</button>\x0a\x20\x20\x20\x20</form>\x0a\x20\x20\x20\x20<div\x20id=\x22dxtWidgetFooter\x22>\x0a\x20\x20\x20\x20\x20\x20©\x202025\x20<a\x20href=\x22https://danexxedteam.vercel.app\x22\x20target=\x22_blank\x22>danexxedteam.vercel.app</a>\x0a\x20\x20\x20\x20</div>\x0a\x20\x20','iaLoading','clientX','onmouseup','Resposta\x20inesperada\x20da\x20API.','234210rSrEhn','onmousemove'];_0xa941=function(){return _0xe950f0;};return _0xa941();}function _0x3017(_0x1cf7bf,_0x1bc1f5){const _0xa9418d=_0xa941();return _0x3017=function(_0x301732,_0x291b6c){_0x301732=_0x301732-0x125;let _0x475fcb=_0xa9418d[_0x301732];return _0x475fcb;},_0x3017(_0x1cf7bf,_0x1bc1f5);}const _0x2a7d4f=_0x3017;(function(_0x51ef72,_0x1272d0){const _0x46fa0d=_0x3017,_0x87e576=_0x51ef72();while(!![]){try{const _0x39020e=-parseInt(_0x46fa0d(0x15e))/0x1*(-parseInt(_0x46fa0d(0x126))/0x2)+parseInt(_0x46fa0d(0x146))/0x3*(-parseInt(_0x46fa0d(0x15f))/0x4)+parseInt(_0x46fa0d(0x12f))/0x5+parseInt(_0x46fa0d(0x144))/0x6+-parseInt(_0x46fa0d(0x152))/0x7+-parseInt(_0x46fa0d(0x143))/0x8+-parseInt(_0x46fa0d(0x14e))/0x9*(-parseInt(_0x46fa0d(0x133))/0xa);if(_0x39020e===_0x1272d0)break;else _0x87e576['push'](_0x87e576['shift']());}catch(_0x1cf166){_0x87e576['push'](_0x87e576['shift']());}}}(_0xa941,0xb4de0));if(document['getElementById'](_0x2a7d4f(0x157)))console[_0x2a7d4f(0x14d)]('Widget\x20já\x20está\x20rodando.');else{const TEMP_TOKEN=_0x2a7d4f(0x137),widget=document[_0x2a7d4f(0x13c)](_0x2a7d4f(0x135));widget['id']='dxtWidget',widget[_0x2a7d4f(0x129)]='\x0a\x20\x20\x20\x20position:fixed;\x0a\x20\x20\x20\x20bottom:20px;\x0a\x20\x20\x20\x20right:20px;\x0a\x20\x20\x20\x20width:280px;\x0a\x20\x20\x20\x20height:400px;\x0a\x20\x20\x20\x20background:#fff;\x0a\x20\x20\x20\x20border-radius:6px;\x0a\x20\x20\x20\x20box-shadow:0\x202px\x206px\x20rgba(0,0,0,0.1);\x0a\x20\x20\x20\x20z-index:9999;\x0a\x20\x20\x20\x20display:flex;\x0a\x20\x20\x20\x20flex-direction:column;\x0a\x20\x20\x20\x20font-family:sans-serif;\x0a\x20\x20\x20\x20overflow:hidden;\x0a\x20\x20\x20\x20border:1px\x20solid\x20#ccc;\x0a\x20\x20\x20\x20color:#000;\x0a\x20\x20',widget[_0x2a7d4f(0x154)]=_0x2a7d4f(0x12a),document['body']['appendChild'](widget);const header=document[_0x2a7d4f(0x147)](_0x2a7d4f(0x15d)),messages=document['getElementById']('iaMessages'),form=document[_0x2a7d4f(0x147)](_0x2a7d4f(0x153)),input=document['getElementById'](_0x2a7d4f(0x127));(function makeDraggable(_0x59cfe8){const _0x3638da=_0x2a7d4f;let _0x11254c=0x0,_0x5e54fe=0x0,_0x1aece4=0x0,_0x436483=0x0;header[_0x3638da(0x13d)]=function(_0x35c2f2){const _0x446da0=_0x3638da;_0x35c2f2[_0x446da0(0x131)](),_0x1aece4=_0x35c2f2[_0x446da0(0x12c)],_0x436483=_0x35c2f2['clientY'],document['onmousemove']=_0x7f23f,document[_0x446da0(0x12d)]=_0x2e3f10;};function _0x7f23f(_0x796db1){const _0x289e30=_0x3638da;_0x796db1[_0x289e30(0x131)](),_0x11254c=_0x1aece4-_0x796db1[_0x289e30(0x12c)],_0x5e54fe=_0x436483-_0x796db1[_0x289e30(0x141)],_0x1aece4=_0x796db1[_0x289e30(0x12c)],_0x436483=_0x796db1['clientY'],_0x59cfe8[_0x289e30(0x129)][_0x289e30(0x128)]=_0x59cfe8[_0x289e30(0x14f)]-_0x5e54fe+'px',_0x59cfe8[_0x289e30(0x129)][_0x289e30(0x15c)]=_0x59cfe8['offsetLeft']-_0x11254c+'px';}function _0x2e3f10(){const _0x298528=_0x3638da;document[_0x298528(0x130)]=null,document[_0x298528(0x12d)]=null;}}(widget),form[_0x2a7d4f(0x149)](_0x2a7d4f(0x159),async _0x7a100=>{const _0x381e6e=_0x2a7d4f;_0x7a100[_0x381e6e(0x131)]();const _0xc25d75=input['value'][_0x381e6e(0x145)]();if(!_0xc25d75)return;messages[_0x381e6e(0x154)]+='<div><b>Você:</b>\x20'+_0xc25d75+_0x381e6e(0x134),input['value']='',messages[_0x381e6e(0x139)]=messages[_0x381e6e(0x161)];const _0x40df25=document[_0x381e6e(0x13c)](_0x381e6e(0x135));_0x40df25['id']=_0x381e6e(0x12b),_0x40df25[_0x381e6e(0x129)]=_0x381e6e(0x15b),_0x40df25[_0x381e6e(0x15a)]=_0x381e6e(0x138),messages[_0x381e6e(0x156)](_0x40df25),messages[_0x381e6e(0x139)]=messages[_0x381e6e(0x161)];try{const _0x35c143=await fetch(_0x381e6e(0x14a),{'method':_0x381e6e(0x13e),'headers':{'Content-Type':_0x381e6e(0x151),'Authorization':_0x381e6e(0x148)+TEMP_TOKEN},'body':JSON[_0x381e6e(0x140)]({'model':'Project-Model-2.0','messages':[{'content':_0xc25d75}]})});if(!_0x35c143['ok'])throw new Error(_0x381e6e(0x160)+_0x35c143[_0x381e6e(0x132)]);const _0x1fad1d=await _0x35c143[_0x381e6e(0x136)]();_0x40df25['remove']();const _0x351391=_0x1fad1d['text']||_0x381e6e(0x12e);messages['innerHTML']+=_0x381e6e(0x125)+_0x351391+'</div>',messages['scrollTop']=messages[_0x381e6e(0x161)];}catch(_0x41ff72){_0x40df25[_0x381e6e(0x13f)](),messages[_0x381e6e(0x154)]+=_0x381e6e(0x142)+_0x41ff72[_0x381e6e(0x13b)]+_0x381e6e(0x134),messages[_0x381e6e(0x139)]=messages[_0x381e6e(0x161)],console[_0x381e6e(0x155)](_0x41ff72);}}));let collapsed=![];window[_0x2a7d4f(0x149)](_0x2a7d4f(0x13a),_0x3582ac=>{const _0x52dd91=_0x2a7d4f;_0x3582ac[_0x52dd91(0x14b)]==='1'&&(collapsed=!collapsed,collapsed?widget[_0x52dd91(0x150)][_0x52dd91(0x14c)](_0x52dd91(0x158)):widget['classList'][_0x52dd91(0x13f)](_0x52dd91(0x158)));});}
+if (document.getElementById('dxtWidget')) {
+  console.log("Widget já está rodando.");
+} else {
+
+  const widget = document.createElement('div');
+  widget.id = 'dxtWidget';
+  widget.style = `
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    width:280px;
+    height:400px;
+    background:#fff;
+    border-radius:6px;
+    box-shadow:0 2px 6px rgba(0,0,0,0.1);
+    z-index:9999;
+    display:flex;
+    flex-direction:column;
+    font-family:sans-serif;
+    overflow:hidden;
+    border:1px solid #ccc;
+    color:#000;
+  `;
+  widget.innerHTML = `
+    <style>
+      #dxtWidget button:hover {background:#eee;}
+      #dxtWidget.collapsed {opacity:0; pointer-events:none;}
+      #dxtWidget #iaMessages {
+        flex:1; padding:10px; overflow-y:auto; font-size:14px;
+      }
+      #dxtWidgetHeader {
+        background:#f7f7f7;
+        padding:10px;
+        font-weight:bold;
+        text-align:center;
+        border-bottom:1px solid #ddd;
+        cursor:move;
+      }
+      #dxtWidgetFooter {
+        background:#f7f7f7;
+        padding:6px;
+        font-size:12px;
+        text-align:center;
+        border-top:1px solid #ddd;
+        color:#555;
+      }
+      #dxtWidgetFooter a {
+        color:#0077cc;
+        text-decoration:none;
+      }
+      #dxtWidgetFooter a:hover {
+        text-decoration:underline;
+      }
+    </style>
+    <div id="dxtWidgetHeader">dxtChat - danexxed's team</div>
+    <div id="iaMessages"></div>
+    <form id="iaForm" style="display:flex; border-top:1px solid #ddd;">
+      <input type="text" id="iaInput" placeholder="Digite aqui..."
+             style="flex:1; border:none; padding:10px; background:#fff; color:#000; border-right:1px solid #ddd;" />
+      <button type="submit" style="border:none; background:#f0f0f0; color:#000; padding:0 15px;">➤</button>
+    </form>
+    <div id="dxtWidgetFooter">
+      © 2025 <a href="https://danexxedteam.vercel.app" target="_blank">danexxedteam.vercel.app</a>
+    </div>
+  `;
+
+  document.body.appendChild(widget);
+
+  const header = document.getElementById('dxtWidgetHeader');
+  const messages = document.getElementById('iaMessages');
+  const form = document.getElementById('iaForm');
+  const input = document.getElementById('iaInput');
+
+  // Draggable
+  (function makeDraggable(element) {
+    let offsetX = 0, offsetY = 0, mouseX = 0, mouseY = 0;
+    header.onmousedown = function(e) {
+      e.preventDefault();
+      mouseX = e.clientX;
+      mouseY = e.clientY;
+      document.onmousemove = drag;
+      document.onmouseup = stopDrag;
+    };
+    function drag(e) {
+      e.preventDefault();
+      offsetX = mouseX - e.clientX;
+      offsetY = mouseY - e.clientY;
+      mouseX = e.clientX;
+      mouseY = e.clientY;
+      element.style.top = (element.offsetTop - offsetY) + "px";
+      element.style.left = (element.offsetLeft - offsetX) + "px";
+    }
+    function stopDrag() {
+      document.onmousemove = null;
+      document.onmouseup = null;
+    }
+  })(widget);
+
+  // Enviar mensagem
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+    const text = input.value.trim();
+    if(!text) return;
+    messages.innerHTML += `<div><b>Você:</b> ${text}</div>`;
+    input.value = '';
+    messages.scrollTop = messages.scrollHeight;
+
+    const loading = document.createElement('div');
+    loading.id = 'iaLoading';
+    loading.style = 'color:#888;font-style:italic;';
+    loading.innerText = 'Pensando...';
+    messages.appendChild(loading);
+    messages.scrollTop = messages.scrollHeight;
+
+    try {
+      const res = await fetch("https://32f72b76-6030-42b8-a4f1-7b917478ce96-00-352w8eo1fg3gf.riker.replit.dev/proxy", {
+        method:'POST',
+        headers:{ 'Content-Type':'application/json' },
+        body: JSON.stringify({
+          model: 'Project-Model-2.0',
+          messages: [{ content: text }]
+        })
+      });
+
+      if(!res.ok) throw new Error("HTTP " + res.status);
+
+      const data = await res.json();
+      loading.remove();
+      const reply = data.text || "Resposta inesperada da API.";
+      messages.innerHTML += `<div><b>IA:</b> ${reply}</div>`;
+      messages.scrollTop = messages.scrollHeight;
+    } catch(err) {
+      loading.remove();
+      messages.innerHTML += `<div style="color:red;">Erro ao se comunicar com a IA:<br>${err.message}</div>`;
+      messages.scrollTop = messages.scrollHeight;
+      console.error(err);
+    }
+  });
+
+  // Colapsar widget com tecla "1"
+  let collapsed = false;
+  window.addEventListener('keydown', e => {
+    if(e.key === '1') {
+      collapsed = !collapsed;
+      collapsed ? widget.classList.add('collapsed') : widget.classList.remove('collapsed');
+    }
+  });
+}
