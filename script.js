@@ -71,7 +71,7 @@ if (document.getElementById('dxtWidget')) {
   const form = document.getElementById('iaForm');
   const input = document.getElementById('iaInput');
 
-  // Draggable
+  
   (function makeDraggable(element) {
     let offsetX = 0, offsetY = 0, mouseX = 0, mouseY = 0;
     header.onmousedown = function(e) {
