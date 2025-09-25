@@ -96,7 +96,7 @@ if (document.getElementById('dxtWidget')) {
     }
   })(widget);
 
-  // Enviar mensagem
+ 
   form.addEventListener('submit', async e => {
     e.preventDefault();
     const text = input.value.trim();
@@ -137,7 +137,7 @@ if (document.getElementById('dxtWidget')) {
     }
   });
 
-  // Colapsar widget com tecla "1"
+ 
   let collapsed = false;
   window.addEventListener('keydown', e => {
     if(e.key === '1') {
